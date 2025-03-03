@@ -1,11 +1,23 @@
 # -FILE-HANDLING-UTILITY
 
 #COMPANY#:CODTECH IT SOLUTIONS
+
+
 #NAME#:VEDANT DAYANAND CHOUGULE
+
+
 #INTERN ID#:CT08RTZ
+
+
 #DOMAIN#:JAVA PROGRAMMING
+
+
 #DURATION#:4 WEEKS
+
+
 #MENTOR#:NEELA SANTOSH
+
+
 
 Task 1 of my Java internship at CodTech involves creating a Java program that can read, write, and modify text files. This task is crucial for understanding file handling in Java, which is a fundamental concept in software development. File handling allows a program to interact with external files, enabling data storage, retrieval, and modification. Successfully completing this task will improve my ability to manage files in Java, a skill required in many real-world applications.
 To achieve this, I will implement a file handling utility that performs multiple operations on a text file. The first step is to create a program that can open and read a text file. This requires the use of Java classes such as FileReader and BufferedReader, which allow efficient reading of file content. Reading files is essential for applications that need to process stored data dynamically.
@@ -15,3 +27,5 @@ Exception handling is an essential part of this task. File operations are prone 
 To maintain good coding practices, I will document my script thoroughly by adding proper comments. This will help in understanding the logic behind each function and make it easier for others to review or modify the code in the future. Proper documentation is a crucial aspect of professional coding, as it enhances readability and maintainability.
 
 #OUTPUT#:
+
+![Image](https://github.com/user-attachments/assets/a58403f4-96b0-4b31-8a81-b1e27dcf36fc)
